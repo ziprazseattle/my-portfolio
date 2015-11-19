@@ -1,0 +1,106 @@
+
+
+header {display: inline;
+	text-align: center;
+}
+
+hr {color: black;
+}
+
+hr.message {margin-right: 15px;
+	margin-top: 40px;
+	margin-bottom: 35px; 
+}
+
+body {
+	font-family: hevetica, sans-serif; 
+}
+
+body p {font-family: serif;
+	font-size: 1.1em;
+
+}
+
+.background {background-color: rgba(0,0,0,.05);
+	padding: 15px 15px 35px 15px; 
+
+}
+
+article {padding-left: 50px;
+	padding-right: 50px;
+
+}
+
+div.profile {
+	width: 100%;
+	height: 100%;
+	padding-top: 50px; 
+	border-style: solid;
+	border-top-width: 5px; 
+	border-bottom-width: 0px;
+	border-left: 0px;
+	border-right: 0px;
+}
+
+div.message {
+	float: left;
+	width: 75%;
+	margin-top: 25px;
+}
+
+div.photo {
+	float: right;
+	width: 25%;
+	margin-top: 20px; 
+}
+
+
+div.bottom-border {color:black;
+	height: 5px;
+	width: 100%;
+}
+
+nav a:link    { color: black;
+	font-size: 1em;
+	font-weight: bold; 
+	padding: 5px;
+}    
+
+nav	a:visited { color: black;
+}   
+
+nav	a:hover   { color: blue; 
+} 
+
+nav	a:active  { color: blue; 
+}   
+
+.current-link {font-style: italic;
+	text-decoration: none;
+}
+
+
+nav.footer a:link    { color: black;
+	font-size: 1em;
+	font-weight: bold; 
+	padding: 5px;
+	text-decoration: none;
+}    
+
+nav.footer	a:visited { color: black;
+}   
+
+nav.footer	a:hover   { color: blue; 
+} 
+
+nav.footer	a:active  { color: blue; 
+} 
+
+
+
+footer {display: inline;
+	text-align: center;
+}
+
+  
+
